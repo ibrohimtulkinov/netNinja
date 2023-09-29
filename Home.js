@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import BlogList from "./BlogList";
 
-///rad0
+///kvidi4
 const Home = () => {
     const [blogs, setBlogs] = useState([
         { title: 'My new website', body: 'lorem ipsum...', author: 'mario', id: 1 },
